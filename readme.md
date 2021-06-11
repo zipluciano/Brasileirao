@@ -10,5 +10,5 @@ conda activate env_campeonato
 
 Adicionando os pacotes necessários para o desenvolvimento do projeto
 ````
-pip install -r env_campeonato.txt
+pip install -r requirements.txt
 ````
