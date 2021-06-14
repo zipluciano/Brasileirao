@@ -1,4 +1,6 @@
-Criando um ambiente virtual com a versão mais recente do python
+# Análise de Dados do Campeonato Brasileiro
+
+Criando um ambiente virtual com a versão mais recente do python, utilizando como gerenciador de pacotes o Anaconda
 ````
 conda create --name env_campeonato python=3.
 ````
