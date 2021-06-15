@@ -19,7 +19,7 @@ Caso no painel interativo do VScode apareça "Kernel died with exit code 1", ten
 ```
 conda install ipykernel --update-deps
 ```
-caso não resolva:
+se não resolver, tente ainda:
 ```
 conda install ipykernel --update-deps --force-reinstall
 ```
