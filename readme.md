@@ -14,3 +14,12 @@ Adicionando os pacotes necessários para o desenvolvimento do projeto
 ````
 pip install -r requirements.txt
 ````
+
+Caso no painel interativo do VScode apareça "Kernel died with exit code 1", tente:
+```
+conda install ipykernel --update-deps
+```
+caso não resolva:
+```
+conda install ipykernel --update-deps --force-reinstall
+```
