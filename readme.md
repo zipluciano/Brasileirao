@@ -1,5 +1,6 @@
-<div align="center">#Análise de Dados do Campeonato Brasileiro</div>
-![Image Not Found](docs\br_ao.jpg)
+# Ánalise de dados do Campeonato Brasileiro - Série A
+
+<br /><div align="center"><img src="https://raw.githubusercontent.com/zipluciano/Brasileirao/master/docs/br_ao.jpg" alt="Texto alternativo caso imagem não esteja disponível" width="500px" height="300px"></div><br />
 
 Criando um ambiente virtual com a versão mais recente do python, utilizando como gerenciador de pacotes o Anaconda
 ````
