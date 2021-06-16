@@ -131,7 +131,7 @@ acuracia = accuracy_score(y_test, predict)
 
 # %%
 
-# devido ao valor de acurácia obtido, é possível observar
+# devido ao valor de acurácia obtido, é possível observar que
 # está ocorrendo overfitting
 comparacao = pd.DataFrame({'y_test': y_test, 'predict': predict})
 print('Acurácia: {:.3f}'.format(acuracia))
